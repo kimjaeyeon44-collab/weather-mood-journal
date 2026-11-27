@@ -15,8 +15,6 @@ Flutter Web과 Firebase, Open-Meteo 무료 날씨 API를 연동하여 구현한 
 
 ## 📸 실행 화면 캡처
 
-### 1. Firebase 이메일/비밀번호 로그인 화면
-![로그인 화면](screenshots/login.png)
+<img width="710" height="679" alt="스크린샷 2026-11-27 150311" src="https://github.com/user-attachments/assets/305a31ff-d964-450e-a316-c12992147654" />
+<img width="390" height="479" alt="스크린샷 2026-11-27 150417" src="https://github.com/user-attachments/assets/92f8d877-7db9-4d51-800a-66d5e7825f83" />
 
-### 2. 실시간 날씨 조회 및 Firestore 기분 기록 화면
-![메인 화면](screenshots/main.png)
